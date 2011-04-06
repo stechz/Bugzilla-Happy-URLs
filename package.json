@@ -1,0 +1,9 @@
+{
+    "name": "bugzilla-url",
+    "license": "BSD", 
+    "author": "Benjamin Stover", 
+    "version": "1.0", 
+    "fullName": "Bugzilla Happy URLs", 
+    "id": "jid0-PyqYRL06UeTdFNkqr76DvHpdKTU", 
+    "description": "Make sure that Bugzilla leaves you on a sane URL."
+}
